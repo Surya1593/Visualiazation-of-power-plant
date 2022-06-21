@@ -10,7 +10,7 @@ MarkupSafe==1.0
 matplotlib==2.1.0
 mistune==0.8.1
 mypy==0.550
-numpy==1.13.3
+numpy==1.22.0
 pandas==0.21.0
 pandocfilters==1.4.2
 parso==0.1.0
